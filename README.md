@@ -50,3 +50,16 @@ Aguardar o carregamento das dependências
 Executar em um dispositivo ou emulador com Android 7.0 ou superior
 
 Gustavo Bifon — projeto desenvolvido para fins de prática e aprendizado
+
+
+
+
+
+<img width="264" height="586" alt="imagem 1" src="https://github.com/user-attachments/assets/24057ec4-18e4-49a6-870a-6eb1f0802e90" />
+
+<img width="255" height="590" alt="imagem 2" src="https://github.com/user-attachments/assets/54958d65-1b65-41a2-b525-b79b61c89363" />
+
+<img width="263" height="580" alt="imagem 3" src="https://github.com/user-attachments/assets/de77812c-98e8-4d05-9d8d-9b8a8e5f8321" />
+
+<img width="262" height="579" alt="imagem 4" src="https://github.com/user-attachments/assets/94de6944-6eba-401b-acf7-a71371062dd8" />
+
