@@ -4,7 +4,7 @@
 
 Este projeto é uma continuação do que foi desenvolvido na atividade anterior, aplicando conceitos de navegação entre telas utilizando **Jetpack Compose Navigation**, com foco na passagem de parâmetros entre telas.
 
-O projeto demonstra domínio técnico e entendimento do código existente, expandindo-o de forma consistente e documentada a cada commit.
+O projeto mostra domínio e entendimento do código existente, expandindo de forma consistente e documentada a cada commit.
 
 ---
 
